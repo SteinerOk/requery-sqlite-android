@@ -1,7 +1,16 @@
 Change Log
 ==========
 
-## 3.48.0
+## 3.50.4
+- [SQLite 3.50.4](https://www.sqlite.org/releaselog/3_50_4.html)
+- [SQLite 3.50.3](https://www.sqlite.org/releaselog/3_50_3.html)
+- [SQLite 3.50.2](https://www.sqlite.org/releaselog/3_50_2.html)
+- [SQLite 3.50.1](https://www.sqlite.org/releaselog/3_50_1.html)
+- [SQLite 3.50.0](https://www.sqlite.org/releaselog/3_50_0.html)
+- [SQLite 3.49.2](https://www.sqlite.org/releaselog/3_49_2.html)
+- [SQLite 3.49.1](https://www.sqlite.org/releaselog/3_49_1.html)
+
+## 3.49.0
 - [SQLite 3.49.0](https://www.sqlite.org/releaselog/3_49_0.html)
 - [SQLite 3.48.0](https://www.sqlite.org/releaselog/3_48_0.html)
 - [SQLite 3.47.2](https://www.sqlite.org/releaselog/3_47_2.html)
