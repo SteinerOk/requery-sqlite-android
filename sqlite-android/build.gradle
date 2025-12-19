@@ -15,7 +15,7 @@ android {
     namespace "io.requery.android.sqlite"
 
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 23
         versionName VERSION_NAME
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
