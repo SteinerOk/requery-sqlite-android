@@ -1,7 +1,7 @@
 plugins {
     id "de.undercouch.download"
     id "com.android.library"
-    id "com.vanniktech.maven.publish" version "0.35.0"
+    id "com.vanniktech.maven.publish" version "0.36.0"
 }
 
 android {
@@ -15,7 +15,7 @@ android {
     namespace "io.requery.android.sqlite"
 
     defaultConfig {
-        minSdkVersion 23
+        minSdkVersion 21
         versionName VERSION_NAME
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -58,7 +58,7 @@ dependencies {
 }
 
 ext {
-    sqliteDistributionUrl = "https://www.sqlite.org/2025/sqlite-amalgamation-3510100.zip"
+    sqliteDistributionUrl = "https://www.sqlite.org/2026/sqlite-amalgamation-3510200.zip"
 }
 
 tasks.register("downloadSqlite", Download) {
